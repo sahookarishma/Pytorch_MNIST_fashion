@@ -1,4 +1,4 @@
-# Pytorch_MNIST_fashion
+# Pytorch
 # 🧠 PyTorch Deep Learning Experiments
 
 This repository contains a collection of PyTorch-based notebooks demonstrating core concepts in neural networks, autograd mechanics, and practical model training on datasets like Fashion-MNIST and breast cancer classification. These notebooks are structured to help beginners and intermediate learners understand the mechanics and best practices in model building using PyTorch.
